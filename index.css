@@ -1,0 +1,172 @@
+body {
+    background-image: url("1376117.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+h2 {
+    width: 180px;
+    font-size: medium;
+    position: relative;
+}
+
+h3 {
+    position: relative;
+}
+
+#main {
+    width: 90%;
+    font-family: "Arima Madurai", cursive;
+    opacity: 100%;
+    margin: auto;
+    font-size: larger;
+    border-radius: 20px;
+    text-align: center;
+    padding: 20px;
+    color: antiquewhite;
+}
+
+#results {
+    width: 100%;
+    height: 10%;
+    margin: auto;
+    border-radius: 20px;
+    flex-wrap: wrap;
+    background-color: rgb(8, 8, 8);
+    opacity: 90%;
+}
+  
+.result-card {
+    width: 12%;
+    height: 9%;
+    color: antiquewhite;
+    font-size: small;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+    display: inline-block;
+}
+.result-card-emp{
+    width: 12%;
+    height: 9%;
+    color: antiquewhite;
+    font-size: small;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+    display: inline-block;
+    background-color: rgb(50, 50, 50);
+}
+
+img {
+    margin-left: 2%;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+
+
+.card-image {
+    width: 50px;
+    height: 50px;
+}
+
+.card-title {
+    margin-top: -1%;
+}
+
+#result {
+    width: 100%;
+    height: 10%;
+    margin: auto;
+    border-radius: 20px;
+    flex-wrap: wrap;
+    background-color: rgb(15, 15, 15);
+    opacity: 90%;
+}
+.cardResults {
+    width: 12%;
+    height: 9%;
+    color: antiquewhite;
+    font-size: small;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+    display: inline-block;
+}
+  
+.filter {
+    background-color: rgb(15, 15, 15);
+    width: 12%;
+    height: 9%;
+    color: antiquewhite;
+    font-size: small;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+    border: none;
+}
+.filter-emp {
+    width: 12%;
+    height: 9%;
+    color: antiquewhite;
+    font-size: small;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+    border: none;
+    background-color: rgb(50, 50, 50);
+}
+.moreFilter {
+    background-color: rgb(15, 15, 15);
+    width: 12%;
+    height: 9%;
+    color: antiquewhite;
+    font-size: small;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+    border: none;
+}
+.moreFilter-emp {
+    width: 12%;
+    height: 9%;
+    color: antiquewhite;
+    font-size: small;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+    border: none;
+    background-color: rgb(50, 50, 50);
+}
+
+#filterButtons {
+    width: 100%;
+    height: 20%;
+    margin: auto;
+    border-radius: 20px;
+    flex-wrap: wrap;
+    background-color: rgb(15, 15, 15);
+    opacity: 90%;
+}
+#manaCrystals {
+    width: 40%;
+    margin: auto;
+    border-radius: 20px;
+    flex-wrap: wrap;
+    background-color: rgb(15, 15, 15);
+    opacity: 90%;
+}
+.mana {
+    width: 7%;
+    height: 7%;
+    color: antiquewhite;
+    font-size: small;
+    border-radius: 20px;
+    margin: 10px;
+    opacity: 50%;
+    display: inline-block;
+}
